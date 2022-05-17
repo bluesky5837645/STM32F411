@@ -1,0 +1,15 @@
+main.c:98:6:SD_RdWrTest	16	static
+main.c:119:5:main	24	static
+main.c:193:6:SystemClock_Config	104	static
+main.c:245:13:MX_I2C1_Init	8	static
+main.c:279:13:MX_I2S3_Init	8	static
+main.c:313:6:MX_SPI1_Init	8	static
+main.c:351:13:MX_USART2_UART_Init	8	static
+main.c:382:13:MX_DMA_Init	16	static
+main.c:400:13:MX_GPIO_Init	56	static
+main.c:445:6:Task1	600	static
+main.c:477:6:Task2	592	static
+main.c:504:6:Task3	24	static
+main.c:521:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm
+main.c:552:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:569:6:Error_Handler	4	static,ignoring_inline_asm
